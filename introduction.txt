@@ -1,0 +1,99 @@
+J2SE :- Java 2 Standard Edition
+  |-- Java Basic Fundamental
+       Datatypes
+       Operator
+       Controll Statement
+       Loop
+       Array
+   --------------------------------------     
+  c :- POP , c++ :- OOP
+  POP is paradigm
+  OOP is paradigm
+  Multi paradigm
+  Paradigm :- Style of programming
+ Object oriented :-
+  Encapsulation
+  Inheritance
+  Abstraction
+  Polymorphism
+  Class
+  Object
+ ----------------------------
+ Constructor
+ Method Overloading
+ Static member
+ String
+ Inheritance
+ Abstract class
+ Interface
+ Nested Inner Class
+ Annonymous inner class
+ Exception Handling
+ IO [File Handling]
+ Multithreading
+ Swing API   
+--------------------------------
+ WHY  
+ WHAT
+ HOW
+--------------------------------------------
+  Java is programming language
+     Software
+      1. System-Software [C/C++]
+          OS,
+          Driver
+      2. Application Software
+         |---Desktop Application
+         |---Web-Application
+         |---Mobile Application
+        Hybrid Application
+          Whatsapp:-
+             Android
+             IOS 
+  What is java ?
+  Ans :- Mahabharat
+    Java :-
+     Console Based Application
+     DesktopApplication (AWT, Swing API)
+     Web Application (Servlet, JSP)
+     Enterprise Application (EJB)
+     Mobile Application [Android]
+     Socket/Chatting : [Socket / RMI]
+     Machine Learning 
+          +
+     Java Backend Developer , Java FullStack Developer
+     
+     Java Backend Developer :-
+       J2SE
+       Database [Hibernate]
+       J2EE (Servlet+JSP)
+       Spring, SpringBoot
+       Microservice Arch
+     -------------------------------
+     FullStack Developer
+       Frontend Technology :-
+         Angular , ReactJS
+       Backend Developement   
+         java
+-----------------------------------------------------------
+  What is Java :-
+    Java is programming language
+       High level--> Java
+         aa. Procedure Oriented/ Function Oriented
+         bb. Object Oriented ---> Java
+                aa. Fully | Complete O O
+                bb. Paritally OO----> Java
+         cc. Multiparadigm
+       Low level
+
+
+
+
+
+
+
+
+
+
+
+ 
