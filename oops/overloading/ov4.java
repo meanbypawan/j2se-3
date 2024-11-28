@@ -1,5 +1,4 @@
 class Test{
-
     public void m1(byte x){
         System.out.println("Byte Flavour");
     }
